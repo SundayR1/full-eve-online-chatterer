@@ -1,0 +1,34 @@
+{
+  "keyword": "EVE Online",
+  "slug": "full-eve-online-chatterer",
+  "game": "eve-online",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 8,
+  "short_link": "https://share.google/GeSUT9pZ9iZAFI8bP",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "Server-side",
+  "modules": [
+    "skins"
+  ],
+  "has_skins": true,
+  "players": 4150,
+  "keepalive": {
+    "file": ".github/workflows/routine.yml",
+    "name": "Content sync",
+    "crons": [
+      "21 18 * * *",
+      "40 23 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s12",
+    "label": "Setup guide Full",
+    "icon": "download"
+  },
+  "files": 28,
+  "bytes": 3036012
+}
